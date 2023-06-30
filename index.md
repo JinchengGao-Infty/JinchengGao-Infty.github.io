@@ -4,21 +4,24 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+[//]:<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+这是高金成的个人主页
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+数学系学生,热衷应用数学的研究,涉猎甚广杂而不精.
+
+知乎:[扫地才子](https://www.zhihu.com/people/wu-xin-72-24),在这里更新一些数学类的文章,主要的内容会逐渐搬到这个主页
+
+哔哩哔哩:[扫地才子](https://space.bilibili.com/425085633?spm_id_from=333.1007.0.0),在这里更新一些宝可梦游戏的视频,以及一些杂七杂八的视频
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+**<font color='red'>[Highlight]</font> 目前有博士申请的意向,申请方向包括但不限于:数字信号处理,遥感图像处理,数据科学,深度学习
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **2019.8 - 2023.6:** 河北工业大学 数学与应用数学 本科
+- **2023.9 - 至今:** 天津大学 数学 在读
 
 <br>
 
@@ -26,11 +29,7 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Research Interests
 
-- Industrial IoT System
-- Applied Machine Learning
-- Bionic Quadruped Robot
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Hyperspectral image analysis
 
 <br>
 
@@ -38,12 +37,6 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **2023.6.30：** 建立了个人主页
 
 <br>
