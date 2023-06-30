@@ -4,30 +4,22 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Projects
+我很喜欢追求从复杂的数学公式中追求简单直观的理解
 
-P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://jinchenggao-infty.github.io/mypaper/202302ICAROB.pdf)
 
-<br>
+# 数学随笔
 
-<br>
+#### [抽象代数](https://jinchenggao-infty.github.io/file/抽象代数.pdf)
 
----
+#### [泛函分析](https://jinchenggao-infty.github.io/file/泛函分析.pdf)
 
-# Open-source Projects
+#### [复变函数](https://jinchenggao-infty.github.io/file/复变函数随笔.pdf)
 
-<br>
+#### [实变函数](https://jinchenggao-infty.github.io/file/实变函数.pdf)
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
+#### [数理统计](https://jinchenggao-infty.github.io/file/数理统计随笔.pdf)
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+#### [数值分析](https://jinchenggao-infty.github.io/file/数值分析.pdf)
 
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+#### [拓扑学](https://jinchenggao-infty.github.io/file/拓扑学.pdf)

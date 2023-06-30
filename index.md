@@ -14,6 +14,12 @@ layout: page
 
 哔哩哔哩:[扫地才子](https://space.bilibili.com/425085633?spm_id_from=333.1007.0.0),在这里更新一些宝可梦游戏的视频,以及一些杂七杂八的视频
 
+projects: 里面有我写的笔记,数学方面,计算机方面.也有我的开源项目,只是目前还没有上传
+
+hobbies: 想分享一些关于宝可梦(pokemon)的事情
+
+awards: 记录拿过的一些奖项怕忘记了,虚名而已 
+
 <br>
 
 ## Academic Background
@@ -35,8 +41,16 @@ layout: page
 
 ---
 
+## 碎碎念
+
+目前还没啥需要碎碎念的
+
 ## News and Updates
 
 - **2023.6.30：** 建立了个人主页
 
 <br>
+
+## other
+
+[孙七七的主页](https://tysunseven.github.io/)
