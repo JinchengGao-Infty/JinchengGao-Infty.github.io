@@ -6,9 +6,11 @@ title: Projects
 
 我很喜欢追求从复杂的数学公式中追求简单直观的理解
 
+# 数学随笔新版
 
+#### [泛函分析](https://jinchenggao-infty.github.io/file/分析学I.pdf)
 
-# 数学随笔
+# 数学随笔旧版
 
 #### [抽象代数](https://jinchenggao-infty.github.io/file/抽象代数.pdf)
 

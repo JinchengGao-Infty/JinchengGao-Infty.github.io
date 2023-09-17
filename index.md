@@ -36,6 +36,7 @@ awards: 记录拿过的一些奖项怕忘记了,虚名而已
 ## Research Interests
 
 - Hyperspectral image analysis
+- Hyperspectral image unmixing
 
 <br>
 
@@ -46,6 +47,8 @@ awards: 记录拿过的一些奖项怕忘记了,虚名而已
 目前还没啥需要碎碎念的
 
 ## News and Updates
+
+- **2023.9.17** 更新分析学I
 
 - **2023.7.6** 更新了宝可梦交换机器人:铁坤坤,请移步[DoDo群](https://imdodo.com/s/213672)
 
