@@ -18,6 +18,8 @@ title: Projects
 
 #### [运筹学](https://JinchengGao-Infty.github.io/file/运筹学.pdf)
 
+#### [数据科学](https://JinchengGao-Infty.github.io/file/数据科学.pdf)
+
 # 数学随笔旧版
 
 #### [抽象代数](https://jinchenggao-infty.github.io/file/抽象代数.pdf)
